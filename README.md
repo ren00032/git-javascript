@@ -1,2 +1,0 @@
-# Git JavaScript
-## Yi Ren
